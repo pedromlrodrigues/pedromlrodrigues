@@ -1,9 +1,23 @@
 <h1 align="center">👋 Hello World, I'm Pedro Lima Rodrigues</h1>
 
 ## ✨ About Me:
-<h3 align="left">Enthusiastic Full-Stack Software Engineer who loves crafting dynamic web applications using the latest technologies! 💻
-<img align="right" height="270px" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d">
+<h3 align="center">Enthusiastic Full-Stack Software Engineer who loves crafting dynamic web applications using the latest technologies! 💻</h3>
+<br>
 
+<img align="right" margin-bottom="500px" width="300px" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+TODO
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ## 🛠️ Tech Stack:
