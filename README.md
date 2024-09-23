@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hello World, I'm Pedro Lima Rodrigues</h1>
 
-# 🛠️ Tech Stack:
+## ✨ About Me:
+<br>
+
+## 🛠️ Tech Stack:
 #### These are the technologies I'm proficient in:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Logo"  />
@@ -28,8 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker Logo"  />
   <img width="12" />
 </div>
+<br>
 
-# 🚀 Learning Roadmap:
+## 🚀 Learning Roadmap:
 #### Although I already have experience with these, I’m diving deeper and mastering:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Logo"  />
