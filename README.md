@@ -7,13 +7,13 @@
 <img align="right" margin-bottom="500px" width="300px" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d">
 
 <br>
-<br>
-<br>
-<br>
-<br>
-TODO
-<br>
-<br>
+
+- 🌱 I’m currently learning and diving deeper into **Spring Boot**
+- 💬 Ask me about **Spring Boot, Java, JavaScript, Angular**
+- 📫 How to reach me: **pmlrodrigues14@gmail.com**
+- 📄 Know about my experiences: **TODO RESUME**
+- ⚡ Fun fact: **I don't drink coffee 😄**
+
 <br>
 <br>
 <br>
@@ -74,3 +74,6 @@ TODO
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo"  />
   <img width="12" />
 </div>
+<br>
+<br>
+<p>If you're curious about my <b>learning adventures</b>, feel free to <a href="https://github.com/pedromlrodrigues/learning"><b>click here</b></a> and follow along!</p>
