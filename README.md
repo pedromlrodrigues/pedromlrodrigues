@@ -49,8 +49,6 @@
 ## 🚀 Learning Roadmap:
 #### Although I already have experience with these, I’m diving deeper and mastering:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/leungwensen/svg-icon/dist/svg/awesome/arrow-circle-right.svg" style="color: red" height="30" alt="Right Arrow Logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java Logo"  />
   <img width="12" />
 </div>
