@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning and diving deeper into **Spring Boot**
 - 💬 Ask me about **Spring Boot, Java, JavaScript, Angular**
 - 📫 How to reach me: **pmlrodrigues14@gmail.com**
-- 📄 Know about my experiences: **TODO RESUME**
+- 📄 Know about my experiences: **https://pedromlrodrigues.github.io/**
 - ⚡ Fun fact: **I don't drink coffee 😄**
 
 <br>
