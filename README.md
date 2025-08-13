@@ -55,9 +55,15 @@
 
 #### Exploring new frontiers:
 <div align="left">
+  <img src="svg/express-original.svg" height="30" alt="Express Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js Logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB Logo"  />
+  <img width="12" />
+  <img src="svg/arrow-circle-right.svg" height="30" alt="Right Arrow Logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/leungwensen/svg-icon/dist/svg/awesome/arrow-circle-right.svg" style="color: red" height="30" alt="Right Arrow Logo"  />
+  <img src="svg/arrow-circle-right.svg" height="30" alt="Right Arrow Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo"  />
   <img width="12" />
