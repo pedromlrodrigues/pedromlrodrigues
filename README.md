@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I’m currently learning and diving deeper into **Spring Boot**
+- 🌱 I'm currently learning and developing a full-stack application to gain practical experience with **Express.js**, **Node.js**, and **MongoDB**.
 - 💬 Ask me about **Spring Boot, Java, JavaScript, Angular**
 - 📫 How to reach me: **pmlrodrigues14@gmail.com**
 - 📄 Know about my experiences: **https://pedromlrodrigues.github.io/**
