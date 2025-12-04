@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I'm currently learning and developing a <a href="https://github.com/pedromlrodrigues/mise-en-stack"><b>full-stack application</b></a> to gain practical experience with **Express.js**, **Node.js**, and **MongoDB**.
+- 🌱 I am actively expanding my skill set to build robust **DevOps** capabilities, focusing heavily on containerization and orchestration with **Docker** and **Kubernetes**.
 - 💬 Ask me about **Spring Boot, Java, JavaScript, Angular**
 - 📫 How to reach me: **pmlrodrigues14@gmail.com**
 - 📄 Know about my experiences: **https://pedromlrodrigues.github.io/**
@@ -51,13 +51,17 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java Logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker Logo"  />
+  <img width="12" />
 </div>
 
 #### Exploring new frontiers:
 <div align="left">
-  <img src="svg/express-original.svg" height="30" alt="Express Logo" />
+  <!--<img src="svg/express-original.svg" height="30" alt="Express Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js Logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB Logo"  />
+  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="Kubernetes Logo"  />
   <img width="12" />
   <img src="svg/arrow-circle-right.svg" height="30" alt="Right Arrow Logo" />
   <img width="12" />
